@@ -1,0 +1,35 @@
+# Arquivos binários
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos de backup
+*~
+*.bak
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração
+*.env
+*.env.*
+*.conf
+
+# Arquivos de compilação
+*.o
+*.a
+*.obj
+
+# Arquivos de cache
+*.cache
+*.swp
+
+# Diretórios
+vendor/
+node_modules/
+
+# Temp
+.DS_Store
+Thumbs.db
+tmp/*
